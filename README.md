@@ -1,5 +1,6 @@
 # Bank-Transaction-Dataset-for-Fraud-Detection
-BANK TRANSACTION DATASET FOR FRAUD DETECTION FOR THE YEAR 2023  A bank transaction dataset for fraud detection typically consists of records detailing financial transactions with information such as customer occupation, customer age, channel of transaction, transaction duration, login attempt, account balance, etc.
+BANK TRANSACTION DATASET FOR FRAUD DETECTION FOR THE YEAR 2023 
+A bank transaction dataset for fraud detection typically consists of records detailing financial transactions with information such as customer occupation, customer age, channel of transaction, transaction duration, login attempt, account balance, etc.
 The dataset includes both legitimate and fraudulent transactions, with labels indicating whether a transaction is fraudulent or not.
 
 The purpose of the dataset is to detect fraudulent transactions by identifying patterns or anomalies that differentiate them from legitimate ones. This data helps financial institutions build systems capable of flagging suspicious transactions in real-time, thereby reducing the risk of fraud.
@@ -15,6 +16,7 @@ Sum of customer age by customer occupation
 Sum of account balance by customer occupation
 
 Observation
+
 Account balance by customer age
 Age 68 had the highest account balance with the sum of $387,151.18.
 
@@ -37,6 +39,7 @@ Account balance by customer occupation
 Doctor has the highest sum of account balance with the sum of $5,665,745.23.
 
 Recommendation
+
 Account balance by customer age
 The largest sum was at age 68. Investigating the source of income is necessary because these might be the results of savings from years of arduous work or any other reason.
 
